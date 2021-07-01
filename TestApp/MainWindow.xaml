@@ -1,0 +1,18 @@
+﻿<Window x:Class="TestApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <UniformGrid Columns="2">
+            <StackPanel VerticalAlignment="Center">
+                <Button x:Name="btnCreate" Height="25" Width="200" Content="Создать текстовый файл" Click="btnCreate_Click" Margin="20"/>
+                <Button x:Name="btnOpen" Height="25" Width="200" Content="Открыть текстовый файл" Click="btnOpen_Click" Margin="20"/>
+            </StackPanel>
+            <Button x:Name="btnProcessing" Height="25" Width="200" Content="Произвести расчет" Click="btnProcessing_Click"/>
+        </UniformGrid>
+    </Grid>
+</Window>

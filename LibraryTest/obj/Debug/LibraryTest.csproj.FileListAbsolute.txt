@@ -1,0 +1,12 @@
+C:\Users\b.klimchuk\source\repos\LibraryTest\bin\Debug\LibraryTest.dll
+C:\Users\b.klimchuk\source\repos\LibraryTest\bin\Debug\LibraryTest.pdb
+C:\Users\b.klimchuk\source\repos\LibraryTest\obj\Debug\LibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\b.klimchuk\source\repos\LibraryTest\obj\Debug\LibraryTest.dll
+C:\Users\b.klimchuk\source\repos\LibraryTest\obj\Debug\LibraryTest.pdb
+C:\Users\b.klimchuk\source\repos\LibraryTest\obj\Debug\LibraryTest.csprojAssemblyReference.cache
+C:\Users\b.klimchuk\source\v3\LibraryTest\bin\Debug\LibraryTest.dll
+C:\Users\b.klimchuk\source\v3\LibraryTest\bin\Debug\LibraryTest.pdb
+C:\Users\b.klimchuk\source\v3\LibraryTest\obj\Debug\LibraryTest.csprojAssemblyReference.cache
+C:\Users\b.klimchuk\source\v3\LibraryTest\obj\Debug\LibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\b.klimchuk\source\v3\LibraryTest\obj\Debug\LibraryTest.dll
+C:\Users\b.klimchuk\source\v3\LibraryTest\obj\Debug\LibraryTest.pdb
